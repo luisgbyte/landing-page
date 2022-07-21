@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_mixins.scss",
+        "../scss/_reset.scss",
+        "../scss/_variables.scss",
+        "../scss/_grid.scss",
+        "../scss/_animate.scss",
+        "../scss/_titles.scss",
+        "../scss/_components.scss",
+        "../scss/_buttons.scss",
+        "../scss/_header.scss",
+        "../scss/_footer.scss",
+        "../scss/_home.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
